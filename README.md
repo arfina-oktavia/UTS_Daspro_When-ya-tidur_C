@@ -1,5 +1,5 @@
 # UTS_Daspro_When-ya-tidur_C
-# Program Menghitung Belanja Sederhana
+# SmartCashier: A Simple Shopping Calculator
 
 # DESKRIPSI PROYEK : Program Menghitung Belanja Sederhana merupakan program kasir berbasis bahasa pemrograman Pascal yang dibuat untuk membantu proses perhitungan belanja secara sederhana. Program ini menerima input nama barang, harga satuan/harga per barangnya dan jumlah barang yang dibeli, kemudian menghitung total harga masing-masing barang, total belanja, diskon, pembayaran, dan kembalian. Program ini dirancang untuk mempermudah proses transaksi belanja serta mengurangi kesalahan perhitungan secara manual.
 
