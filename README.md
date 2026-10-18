@@ -1,5 +1,5 @@
 # UTS_Daspro_When-ya-tidur_C
-# SmartCashier: Mart Gaje (Gampang dan Jelas)
+# Mart Gaje (Gampang dan Jelas)
 
 # DESKRIPSI PROYEK : 
 Program kasir sederhana berbasis bahasa pemrograman Pascal yang digunakan untuk menghitung total belanja berdasarkan harga dan jumlah barang yang dibeli. Program ini dilengkapi dengan fitur perhitungan diskon, validasi pembayaran, dan perhitungan uang kembalian. Program ini bertujuan untuk membantu pengguna menghitung transaksi belanja dengan mudah, cepat, dan akurat melalui menu interaktif.
